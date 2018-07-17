@@ -4,12 +4,9 @@ public class fourthprogram {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//removed system
 		
-		System.out.println("fourth program");
-		
-		
-		
-
+int x;
 	}
 
 }
