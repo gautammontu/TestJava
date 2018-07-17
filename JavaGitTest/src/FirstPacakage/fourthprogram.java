@@ -7,16 +7,6 @@ public class fourthprogram {
 		//removed system
 		
 
-int x;
-
-	int a=9 ;
-	int b=7;
-	int c;
-	
-	c=a+b;
-		
-		
-		
 
 	}
 
